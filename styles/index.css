@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --color-white: hsl(0, 0%, 100%);
+  --slate-color-300: hsl(212, 45%, 89%);
+  --slate-color-500: hsl(216, 15%, 48%);
+  --slate-color-900: hsl(218, 44%, 22%);
+  --font-family: 'Outfit', sans-serif;
+}
+
+.attribution { 
+  font-size: 11px;
+  text-align: center; 7
+}
+
+.attribution a { 
+  color: hsl(228, 45%, 44%); 
+}
